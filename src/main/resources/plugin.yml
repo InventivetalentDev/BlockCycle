@@ -1,0 +1,8 @@
+name: BlockCycle
+main: org.inventivetalent.blockcycle.BlockCycle
+author: inventivetalent
+version: ${project.version}
+
+commands:
+  blockcycle:
+    aliases: [bc]
